@@ -1,0 +1,15 @@
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\bin\Debug\net9.0\joalheria.exe
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\bin\Debug\net9.0\joalheria.deps.json
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\bin\Debug\net9.0\joalheria.runtimeconfig.json
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\bin\Debug\net9.0\joalheria.dll
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\bin\Debug\net9.0\joalheria.pdb
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.AssemblyInfoInputs.cache
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.AssemblyInfo.cs
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.csproj.CoreCompileInputs.cache
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.sourcelink.json
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.dll
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\refint\joalheria.dll
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.pdb
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\joalheria.genruntimeconfig.cache
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\joalheria\obj\Debug\net9.0\ref\joalheria.dll

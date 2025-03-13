@@ -9,4 +9,12 @@ internal sealed class Surpervisor:Funcionario
 
     public string Turno {get;private set;}
 
+    public override void InfoFuncionario()
+        {
+            
+            base.InfoFuncionario();
+            Console.WriteLine($"Turno: {Turno}");
+
+        }
+
 }

@@ -14,4 +14,14 @@ internal  class Funcionario
     public string Sobrenome{get;private set;}
     public double ValorHora{get;private set;}
 
+    public Double Salario(){
+        Double salario = ValorHora * 160;
+        return salario;
+    }
+
+    public virtual void InfoFuncionario (){
+        Console.WriteLine("##### Dados Basicos #####");
+        Console.WriteLine($"Nome: {Nome} \n Sobre Nome: {Sobrenome} \n Salario: {Salario()}");
+    }
+
 }

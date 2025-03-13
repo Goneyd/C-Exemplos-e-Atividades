@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("joalheria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934034feed293bf1b4ddfe35988df7e471b20e10")]
 [assembly: System.Reflection.AssemblyProductAttribute("joalheria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("joalheria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

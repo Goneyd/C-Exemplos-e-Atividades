@@ -1,0 +1,15 @@
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\bin\Debug\net9.0\AulaEx.exe
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\bin\Debug\net9.0\AulaEx.deps.json
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\bin\Debug\net9.0\AulaEx.runtimeconfig.json
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\bin\Debug\net9.0\AulaEx.dll
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\bin\Debug\net9.0\AulaEx.pdb
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.AssemblyInfoInputs.cache
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.AssemblyInfo.cs
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.csproj.CoreCompileInputs.cache
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.sourcelink.json
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.dll
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\refint\AulaEx.dll
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.pdb
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\AulaEx.genruntimeconfig.cache
+C:\C#_Exemplos_e_atividades\C-Exemplos-e-Atividades\Aula C3#\AulaEx\obj\Debug\net9.0\ref\AulaEx.dll

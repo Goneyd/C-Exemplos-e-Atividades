@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Aula C3#\\joalheria\\joalheria.csproj": {}
+    "C:\\C#_Exemplos_e_atividades\\C-Exemplos-e-Atividades\\Aula C3#\\joalheria\\joalheria.csproj": {}
   },
   "projects": {
-    "C:\\Aula C3#\\joalheria\\joalheria.csproj": {
+    "C:\\C#_Exemplos_e_atividades\\C-Exemplos-e-Atividades\\Aula C3#\\joalheria\\joalheria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Aula C3#\\joalheria\\joalheria.csproj",
+        "projectUniqueName": "C:\\C#_Exemplos_e_atividades\\C-Exemplos-e-Atividades\\Aula C3#\\joalheria\\joalheria.csproj",
         "projectName": "joalheria",
-        "projectPath": "C:\\Aula C3#\\joalheria\\joalheria.csproj",
+        "projectPath": "C:\\C#_Exemplos_e_atividades\\C-Exemplos-e-Atividades\\Aula C3#\\joalheria\\joalheria.csproj",
         "packagesPath": "C:\\Users\\gabriel.schmidt\\.nuget\\packages\\",
-        "outputPath": "C:\\Aula C3#\\joalheria\\obj\\",
+        "outputPath": "C:\\C#_Exemplos_e_atividades\\C-Exemplos-e-Atividades\\Aula C3#\\joalheria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
