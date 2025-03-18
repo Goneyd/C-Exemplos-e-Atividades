@@ -21,7 +21,7 @@ internal  class Funcionario
 
     public virtual void InfoFuncionario (){
         Console.WriteLine("##### Dados Basicos #####");
-        Console.WriteLine($"Nome: {Nome} \n Sobre Nome: {Sobrenome} \n Salario: {Salario()}");
+        Console.WriteLine($"Nome: {Nome} \nSobre Nome: {Sobrenome} \nSalario: {Salario()}");
     }
 
 }

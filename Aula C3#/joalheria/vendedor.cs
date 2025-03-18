@@ -14,6 +14,7 @@ internal sealed class Vendedor:Funcionario
         
         base.InfoFuncionario(); 
         Console.WriteLine($"Faturamento Do Mes Anterior: {FaturamentoMesAnterior}");
+        Console.WriteLine("");
     }
         
 }

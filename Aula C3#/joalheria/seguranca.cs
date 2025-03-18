@@ -15,6 +15,7 @@ namespace joalheria
         {
             base.InfoFuncionario();
             Console.WriteLine($"Horarios: {string.Join(", ",Horarios)}");
+            Console.WriteLine("");
         }
 
     }

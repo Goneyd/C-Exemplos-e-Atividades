@@ -14,6 +14,7 @@ internal sealed class Surpervisor:Funcionario
             
             base.InfoFuncionario();
             Console.WriteLine($"Turno: {Turno}");
+            Console.WriteLine("");
 
         }
 
