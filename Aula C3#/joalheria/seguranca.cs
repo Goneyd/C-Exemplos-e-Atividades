@@ -3,7 +3,7 @@ namespace joalheria
     internal sealed class Seguranca:Funcionario
     {
 
-        public Seguranca(string nome,string sobre_nome,double valor_hora, List<string> horarios):base( nome, sobre_nome,valor_hora){
+        public Seguranca(string nome,string sobre_nome,double valor_hora,int depedente ,List<string> horarios):base( nome, sobre_nome,valor_hora, depedente){
             
             Horarios = horarios;
 
