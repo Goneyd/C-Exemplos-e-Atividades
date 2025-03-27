@@ -13,14 +13,14 @@ namespace joalheria;
             var vendedor1 = new Vendedor(nome:"Claudia",sobre_nome:"Silva",valor_hora:8.00,depedente: 0,faturamento_mes_anterior:78456.00);
             var vendedor2 = new Vendedor(nome:"Luci",sobre_nome:"Fernandes",valor_hora:12.00,depedente: 1,faturamento_mes_anterior:89043.00);
 
-            var Joalheria = new Joalheria(nome:"Joalheria Dilma",localizacao:"Cidade: Mar morto / Bairo: Alfredo Dias / Rua: Marcone / N 98");
+            var Joalheria = new Joalheria(nome:"Joalheria Dilma",localizacao:"Cidade: Mar morto / Bairo: Alfredo Dias / Rua: Marcone / N 98");     
             Joalheria.AdicionarFuncionario(gerente1);
             Joalheria.AdicionarFuncionario(gerente2);
             Joalheria.AdicionarFuncionario(seguranca1);
             Joalheria.AdicionarFuncionario(vendedor1);
             Joalheria.AdicionarFuncionario(vendedor2);
 
-            foreach (Funcionario funcionarioItem in Joalheria.FuncionarioLista)
+            foreach (Funcionario funcionarioItem in Joalheria.ListaFuncionarios())
             {
                 funcionarioItem.InfoFuncionario();
             }

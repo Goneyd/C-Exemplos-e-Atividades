@@ -23,15 +23,8 @@ internal  class Funcionario
 
 
     public virtual void InfoFuncionario (){
-        Console.WriteLine("##### Dados Basicos #####");
+        Console.WriteLine("\n ##### Dados Basicos ##### \n");
         Console.WriteLine($"Nome: {Nome} \nSobre Nome: {Sobrenome} \nSalario Base: {Salario()}");
-        if (Depedente != 0)
-        {
-            var Salario = this.Salario();
-            double SalarioReajustado = Salario + (Depedente * 500);
-
-            Console.WriteLine($"Valor Do auxílio dependente: {Depedente * 500} \nValor Total: {SalarioReajustado}");
-        }
     }
 
 }

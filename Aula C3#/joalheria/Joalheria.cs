@@ -14,10 +14,15 @@ internal class Joalheria
     private string Nome {get;set;}
     private string Localizacao {get;set;}
 
-    public List<Funcionario> FuncionarioLista = new List<Funcionario>(); 
+    private List<Funcionario> FuncionarioLista = new List<Funcionario>(); 
     
     public void AdicionarFuncionario (Funcionario novoFuncionario){
             FuncionarioLista.Add(novoFuncionario);
+    }
+
+    public List<Funcionario> ListaFuncionarios()
+    {
+        return FuncionarioLista;
     }
 
     public List<Funcionario> ListarGerentes(){

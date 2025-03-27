@@ -15,7 +15,16 @@ namespace joalheria
         {
             base.InfoFuncionario();
             Console.WriteLine($"Horarios: {string.Join(", ",Horarios)}");
-            Console.WriteLine("");
+            
+            if (Depedente != 0)
+            {
+                var Salario = this.Salario();
+                double SalarioReajustado = Salario + (Depedente * 500);
+
+                Console.WriteLine($"Valor Do auxílio dependente: {Depedente * 500} \nValor Total: {SalarioReajustado}");
+            }
+            
+            
         }
 
     }
